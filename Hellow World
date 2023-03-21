@@ -1,0 +1,14 @@
+
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World")
+}
+
+// testing comments 
+
+/* now
+multiple lines like this
+or not */
